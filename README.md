@@ -12,7 +12,7 @@
   </a>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ### :woman_technologist: About Me :
 
 ### :hammer_and_wrench: Languages and Tools :
